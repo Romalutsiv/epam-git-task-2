@@ -1,7 +1,7 @@
 first file line 1 updated
 first file line 2 updated
-first file line 3
-first file line 4
+first file line 3 update from new folder
+first file line 4 update from new folder
 first file line 5
 first file line 6
 first file line 7
